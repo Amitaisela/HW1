@@ -12,6 +12,7 @@ int main() {
     return 0;
 }
 
+// question 3
 void swap(int *xPointer, int *yPointer) {//swaps between to integers variables using only ^(XOR)
     printf("x = %d\n", *xPointer);
     printf("y = %d", *yPointer);
@@ -28,6 +29,9 @@ void swap(int *xPointer, int *yPointer) {//swaps between to integers variables u
     printf("y = %d", *yPointer);
 
 }
+
+// question 4
+
 
 /*
 * bitAnd ‐ x&y using only ~ and |
